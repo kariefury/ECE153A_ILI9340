@@ -1,7 +1,7 @@
 # ECE153A_ILI9340
-2.2 TFT Lcd Driver library for interfacing to Artix-7 FPGA.
-Originally created by Chieh Lu for ECE 253 Graduate student project Fall 2014
-Updated for use in ECE153A course.
+- 2.2 TFT Lcd Driver library for interfacing to Artix-7 FPGA.
+- Originally created by Chieh Lu for ECE 253 Graduate student project Fall 2014
+- Updated for use in ECE153A course.
 
 
 The [datasheet](http://www.adafruit.com/datasheets/ILI9340.pdf) for the LCD screen driver (ILI9340) which is avilable from [Adafruit](https://www.adafruit.com/products/1480)
