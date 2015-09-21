@@ -13,6 +13,6 @@
 #include <stdint.h>
 
 extern const uint8_t bitmap_def[3][24][24];
-extern const uint8_t bitmap_def_font[3][21][24];
+extern const uint8_t bitmap_def_font[26][21][24];
 
 #endif /* CHARACTER_H_ */
